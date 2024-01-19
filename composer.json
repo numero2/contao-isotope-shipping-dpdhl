@@ -1,0 +1,8 @@
+
+{
+    "name": "numero2/contao-isotope-shipping-dpdhl",
+    "type": "contao-bundle",
+    "description": "Placeholder bundle of the Deutsche Post DHL shipping module for Isotope eCommerce",
+    "homepage": "https://www.numero2.de",
+    "license": "proprietary"
+}
